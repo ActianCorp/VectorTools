@@ -1,6 +1,6 @@
 # Vector DBA Tools
 
-This is a collection of scripts and tools useful when working with Actian Vector and VectorH databases.
+Created by Actian's Professional Services team, this is a collection of scripts and tools useful when working with Actian Vector and VectorH databases.
 Each item is standalone and will provide some usage information if executed with no parameters.
 
 # vector-minmax.sh
